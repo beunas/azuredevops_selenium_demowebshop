@@ -1,0 +1,11 @@
+org\demoWebShop\dataprovider\DataProviders.class
+org\demoWebShop\analyzer\AnnotationTransformer.class
+org\demoWebShop\automationcore\Base.class
+org\demoWebShop\testscripts\HomePageTest.class
+org\demoWebShop\automationcore\DriverFactory.class
+org\demoWebShop\listeners\TestListener.class
+org\demoWebShop\testscripts\UserAccountPageTest.class
+org\demoWebShop\analyzer\RetryAnalyzer.class
+org\demoWebShop\testscripts\RegisterPageTest.class
+org\demoWebShop\testscripts\ShoppingCartTest.class
+org\demoWebShop\testscripts\LoginPageTest.class
